@@ -146,7 +146,7 @@ public class HttpFSClient {
     /**
      * deal HttpResponse content
      *
-     * @param conn
+     * @param in
      * @param sb
      * @return
      * @throws IOException
