@@ -1,4 +1,4 @@
-package com.catt.httpfs.client.utils;
+package com.bdiiot.httpfs.client.utils;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

@@ -1,6 +1,6 @@
-package com.catt.httpfs.client.httpclient;
+package com.bdiiot.httpfs.client.httpclient;
 
-import com.catt.httpfs.client.utils.HttpFSConf;
+import com.bdiiot.httpfs.client.utils.HttpFSConf;
 import org.apache.commons.httpclient.Cookie;
 import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.HttpMethod;
